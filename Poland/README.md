@@ -13,3 +13,5 @@ Jupyter notebooks need a python environment with jupyter notebook/lab or can wor
 # Contributor
 
 [Ami S. Koshikawa](https://linkedin.com/in/amisk) - Graduate School of Information Sciences, Tohoku University ([@mikskw@mstdn.social](https://mstdn.social/@mikskw))
+
+[Taisei Matsuo](https://www.linkedin.com/in/taisei-matsuo-54ab17380) - Department of Physics, Institute of Science Tokyo ([e-mail](mailto:matsuo.t.170a@m.isct.ac.jp))
