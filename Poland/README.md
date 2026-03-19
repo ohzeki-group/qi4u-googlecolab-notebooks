@@ -1,5 +1,5 @@
 # About this repository
-This repository consists of jupyter notebooks and slides that were introduced during _Introductory workshop on Quantum Computing_ held at the University of Warsaw, Poland on 3--5 March 2026:
+This repository consists of jupyter notebooks and slides that were introduced during _Introductory workshop on Quantum Computing_, held at the University of Warsaw, Poland on 3--5 March 2026:
 
  - Quantum annealing hands-on materials
    - Workload scheduling problem (+ slides)
@@ -12,4 +12,4 @@ Jupyter notebooks need a python environment with jupyter notebook/lab or can wor
 
 # Contributor
 
-[Ami S. Koshikawa](https://linkedin.com/in/amisk) (@amikw) - Graduate School of Information Sciences, Tohoku University ([@mikskw@mstdn.social](https://mstdn.social/@mikskw))
+[Ami S. Koshikawa](https://linkedin.com/in/amisk) - Graduate School of Information Sciences, Tohoku University ([@mikskw@mstdn.social](https://mstdn.social/@mikskw))
